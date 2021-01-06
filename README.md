@@ -5,13 +5,13 @@ individually. The user can also save the resume as a pdf and use it.
 
 ## Packages used
  ### React-Redux
-  #### used npm install -save react-redux for downloading 
+  #### used npm install --save react-redux for downloading 
  ### Redux
   #### used npm install --save redux for downloading 
  ### React-Router
   #### used npm install --save react-router react-router-dom for downloading
   
- #### npm start to start the webapp.
+ ##### npm start to start the webapp.
  
 
  
