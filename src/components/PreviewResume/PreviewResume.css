@@ -1,0 +1,207 @@
+.resume {
+    min-height: 800px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+@media print {
+    #Resumefooter, #resumeHeader, #editLinksInfo, #editWorkInfo, #showSkillsInfo, #showProjectsInfo, #showAchInfo,#editBasicInfo {
+      display: none;
+    }
+    .resume {
+        border: none
+    }
+}
+
+.showCover {
+    word-wrap: break-word;
+}
+
+.showName, .showRole, .showCover, .showLinks {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.showEmailDiv {
+   /*  background-color: yellow; */
+    width: 47%;
+    display: inline-block;
+    margin-left: 1%;
+}
+.showEmailSpan {
+    display: inline-block;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.email {
+    display: inline-block;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.showGithubDiv {
+  /*   background-color: blue; */
+    display: inline-block;
+    width: 50%;
+}
+
+.showGithubSpan {
+    display: inline-block;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.github {
+    display: inline-block;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.showLinkedInDiv {
+    display: inline-block;
+  /*   background-color: pink; */
+    width: 47%;
+    margin-left: 1%;
+}
+
+.showLinkedInSpan {
+    display: inline-block;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.linkedIn {
+    display: inline-block;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.showProfileLinkDiv {
+   /*  background-color: gray; */
+    width: 50%;
+    display: inline-block;
+}
+
+.showProfileLinkSpan {
+    display: inline-block;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profileLink {
+    display: inline-block;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.showContactDiv {
+    margin-left: 1%;
+}
+
+.showContactSpan {
+    display: inline-block;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.contact {
+    display: inline-block;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.leftPortion {
+   /*  background-color: yellow; */
+    width: 50%;
+    display: inline-block
+}
+
+.company, .designation, .achievement, .projects {
+    margin-left: 1%;
+    font-family: 'Montserrat', sans-serif;
+}
+.showWorkExTbl {
+    width: 100%;
+}
+
+.company {
+   /*  background: black; */
+    width: 61%;
+    display: inline;
+}
+
+.startToEndDate {
+   margin-left: 1%;
+   font-size: 12px;
+}
+
+.workEx, .skills {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 1%;
+}
+
+.start, .to, .end {
+    opacity: .6
+}
+
+.showsSkillsRow {
+    display: inline;
+    margin: 2px;
+}
+
+.skillsRowTag {
+    margin-bottom: 3%;
+}
+
+.rightPortion {
+    float: right;
+    display: inline-block;
+    width: 50%
+}
+
+.showAch {
+    word-wrap: break-word;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.projectName {
+    display: inline
+}
+
+.projectDesc {
+    width:76%;
+    word-wrap: break-word;
+}
+
+
+#editBasicInfo {
+    /* display: inline; */
+    float: right;
+    margin-right: 5%;
+    font-size: 17px
+}
+
+#editLinksInfo {
+    float: right;
+}
+
+#editWorkInfo, #showSkillsInfo, #showAchInfo, #showProjectsInfo {
+    float: right;
+    margin-right: 7%;
+}
+
+.showSkillsTbl {
+    width: 100%
+}
+
+.showLinks {
+    width: 203%
+}
+
+.startToEndDate1 {
+    font-size: 12px;
+}
+
+.showProjectsTbl {
+    width: 99%;
+}

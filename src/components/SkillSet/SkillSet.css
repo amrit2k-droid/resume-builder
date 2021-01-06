@@ -1,0 +1,16 @@
+.skillSelect {
+    width: 273px;
+    height: 32px;
+    border-radius: 8px;
+}
+
+.showMessage {
+    background-color: lightgrey;
+    margin-left: 1%;
+    border-radius: 2px;
+    /* font-size: 11px; */
+}
+
+.skillSetTbl {
+    width: 100%
+}

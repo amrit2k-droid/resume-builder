@@ -1,0 +1,61 @@
+
+.emailInpSpan {
+    font-family: 'Lobster', cursive; 
+}
+
+.githubInpSpan {
+    font-family: 'Lobster', cursive; 
+}
+
+.linkedInSpan {
+    font-family: 'Lobster', cursive; 
+}
+
+.profileSpan {
+    font-family: 'Lobster', cursive; 
+}
+
+.mobMoSpan {
+    font-family: 'Lobster', cursive; 
+}
+
+#emailInput {
+    width: 90%;
+}
+
+#githubInput {
+    width: 90%;
+}
+
+#linkedInInput {
+    width: 90%;
+}
+
+#profileInput {
+    width: 90%;
+} 
+
+#mobNoInput {
+    width: 90%;
+}
+
+.githubInpDiv {
+    margin-top: 3%;
+}
+
+.linkedInDiv {
+    margin-top: 3%;
+}
+
+.profileDiv {
+    margin-top: 3%;
+}
+
+.mobMoDiv {
+    margin-top: 3%;
+}
+
+
+
+
+

@@ -1,0 +1,43 @@
+.nameDiv {
+    margin-bottom: 15px;
+}
+
+.roleDiv {
+    margin-bottom: 15px;
+}
+
+#writeSomething {
+    min-width: 200px;
+    resize: none;
+    font-size: 18px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    min-height: 1.em;
+    /* height: 1.2em; */
+    padding: 2px;
+    max-height: 100%;
+    /* position: absolute; */
+    left: 0px;
+    margin-left: 0px;
+    min-height: 100px;
+    /* height: auto; */
+    width: 100%;
+    margin-top: 0px;
+}
+
+.nameSpan {
+    font-family: 'Lobster', cursive;
+}
+
+.roleSpan {
+    font-family: 'Lobster', cursive;
+}
+
+.coverSpan {
+    font-family: 'Lobster', cursive;
+}
+.basicInfoWarning {
+    font-family: 'Lobster', cursive;
+    color: red
+}
+

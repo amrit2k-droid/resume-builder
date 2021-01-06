@@ -1,0 +1,28 @@
+.createResume {
+    width: 50%;
+    /* background-color: yellow; */
+    background-color: lightblue;
+    height: 400px;
+    margin-top: 6%;
+    margin-left: 24%;
+    border-radius: 22px;
+    border-color: solid black;
+}
+
+.createHeader {
+    font-family: 'Lobster', cursive;
+    font-size: 26px;
+    /* background-color: yellow; */
+    text-align: center;
+    /* margin-top: 16%; */
+    /* margin-top: 24px; */
+    padding-top: 97px;
+}
+
+#plusSign {
+    /* background-color: yellow; */
+    float: right;
+    margin-right: 46%;
+    margin-top: 13%;
+    font-size: 48px;
+}

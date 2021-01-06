@@ -1,0 +1,42 @@
+.pjtNameSpan {
+    font-family: 'Lobster', cursive;
+}
+
+.pjtDescSpan {
+    font-family: 'Lobster', cursive;
+}
+
+.pjtStDateSpan {
+    font-family: 'Lobster', cursive;
+}
+
+.pjtStDtSpan {
+    font-family: 'Lobster', cursive;
+}
+
+.inProgressInp {
+    font-family: 'Lobster', cursive;
+}
+
+#pjtDescInput {
+    min-width: 200px;
+    resize: none;
+    font-size: 18px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    min-height: 1.em;
+    /* height: 1.2em; */
+    padding: 2px;
+    max-height: 100%;
+    /* position: absolute; */
+    left: 0px;
+    margin-left: 0px;
+    min-height: 100px;
+    /* height: auto; */
+    width: 100%;
+    margin-top: 0px;
+}
+
+.pjtTbl {
+    width: 80%;
+}
